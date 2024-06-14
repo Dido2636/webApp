@@ -16,7 +16,7 @@ user_input = st.text_input('Ceci est champs de saisie')
 st.write(user_input)
 
 #Afficher une image
-st.image('https://www.zara.com/fr/fr/sac-porte-epaule-minimal-a-rabat-p16269310.html')
+st.image('https://www.eemi.com/wp-content/themes/eemi/assets/imgs/logo-eemi.svg')
 
 #creer un formulaire
 with st.form('Form1'):
